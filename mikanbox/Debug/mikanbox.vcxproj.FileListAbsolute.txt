@@ -1,0 +1,2 @@
+C:\Users\nagas\Desktop\cpp_learning\mikanbox\Debug\mikanbox.exe
+C:\Users\nagas\Desktop\cpp_learning\mikanbox\Debug\mikanbox.pdb
